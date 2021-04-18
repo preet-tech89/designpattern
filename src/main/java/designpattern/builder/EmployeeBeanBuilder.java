@@ -1,5 +1,6 @@
 package designpattern.builder;
 
+//Builder pattern example with immutability
 public class EmployeeBeanBuilder {
 
   private final String firstName;
@@ -33,7 +34,7 @@ public class EmployeeBeanBuilder {
     return address;
   }
 
-  public static class Builder {
+  static class Builder {
 
     private String firstName;
 
