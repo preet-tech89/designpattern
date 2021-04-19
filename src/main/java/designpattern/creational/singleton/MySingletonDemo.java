@@ -1,4 +1,4 @@
-package designpattern.singleton;
+package designpattern.creational.singleton;
 
 import java.sql.Connection;
 import java.sql.SQLException;

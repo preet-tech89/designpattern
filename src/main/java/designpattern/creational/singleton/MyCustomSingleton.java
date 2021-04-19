@@ -1,4 +1,4 @@
-package designpattern.singleton;
+package designpattern.creational.singleton;
 
 //Singleton Class Basic example 
 public class MyCustomSingleton {

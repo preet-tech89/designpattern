@@ -1,4 +1,4 @@
-package designpattern.builder;
+package designpattern.creational.builder;
 
 //Not immutable and no contract available which is valid or not.
 public class EmployeeBean {

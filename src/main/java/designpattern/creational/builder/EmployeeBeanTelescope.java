@@ -1,4 +1,4 @@
-package designpattern.builder;
+package designpattern.creational.builder;
 
 //Immutable, no setter
 public class EmployeeBeanTelescope {

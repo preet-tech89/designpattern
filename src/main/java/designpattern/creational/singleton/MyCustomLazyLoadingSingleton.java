@@ -1,4 +1,4 @@
-package designpattern.singleton;
+package designpattern.creational.singleton;
 
 //Singleton Class Lazy Loading example 
 public class MyCustomLazyLoadingSingleton {

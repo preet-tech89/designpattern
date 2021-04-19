@@ -1,4 +1,4 @@
-package designpattern.prototype;
+package designpattern.creational.prototype;
 
 import java.util.HashMap;
 import java.util.Map;

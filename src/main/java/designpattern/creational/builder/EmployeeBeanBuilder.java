@@ -1,4 +1,4 @@
-package designpattern.builder;
+package designpattern.creational.builder;
 
 //Builder pattern example with immutability
 public class EmployeeBeanBuilder {
