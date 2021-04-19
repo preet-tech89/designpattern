@@ -10,6 +10,14 @@ public class FactoryMethodDemo {
     System.out.println(cal);
     
     System.out.println(cal.get(Calendar.DAY_OF_MONTH));
+    
+    Website site = WebsiteFactory.getWebsite(WebsiteType.BLOG);
+    
+    System.out.println(site.getPages());
+    
+    site = WebsiteFactory.getWebsite(WebsiteType.SHOP);
+    
+    System.out.println(site.getPages());
 
   }
 
